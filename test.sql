@@ -4,3 +4,4 @@
 --   ('Dummy Task 6', 'This is a dummy task 3', 3, false, 3);
 select * from todos;
 
+-- uvicorn main:app --host 0.0.0.0 --port 10000
